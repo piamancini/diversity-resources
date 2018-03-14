@@ -78,6 +78,8 @@ These are invite only networks, please read their coodes of conduct and mission.
 
 [Turing School](https://www.turing.io/)
 
+[Codebar](https://codebar.io/) (UK, Free workshops to bridge the diversity gap)
+
 ### Events
 
 [AltConf](http://altconf.com/)
