@@ -3,7 +3,7 @@
 
 Our hiring process was frustrating for me becasue we were receiving applications only from men. I believe in the importance of having a diverse team and I want to help underrepresented groups, specially women, find jobs in tech. I asked the internet for help on a tweet and the reaction was beautiful (and intense). Here's a list ot resources and things I learned in the process. 
 
-Please, contribute what's missing (this is not meant to be a comprehensive list) respect the spirit of this repo, use it to encourange more underrepresented groups to join your team, don't forget to post in these networks make the tech sector a better place. 
+Please, contribute what's missing (this is not meant to be a comprehensive list) respect the spirit of this repo, use it to encourange more underrepresented groups to join your team, don't forget to post in these networks to make the tech sector a better place. 
 
 ### Job Boards / Dedicated organizations
 
