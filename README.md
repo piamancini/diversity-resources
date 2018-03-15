@@ -5,7 +5,7 @@ Our hiring process was frustrating for me becasue we were receiving applications
 
 Please, contribute what's missing (this is not meant to be a comprehensive list) respect the spirit of this repo, use it to encourange more underrepresented groups to join your team, don't forget to post in these networks to make the tech sector a better place. 
 
-### Inclusive and Respecful Aprpocahed and Wording suggested to me after I tweeted
+### Inclusive and Respecful aprpocahes and aording suggested to me after I tweeted
 
 "Women (cis and trans), non-binary people (optionally include trans men if you're ok with that)"
 
