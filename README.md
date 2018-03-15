@@ -5,6 +5,37 @@ Our hiring process was frustrating for me becasue we were receiving applications
 
 Please, contribute what's missing (this is not meant to be a comprehensive list) respect the spirit of this repo, use it to encourange more underrepresented groups to join your team, don't forget to post in these networks to make the tech sector a better place. 
 
+### Inclusive and Respecful Wording suggested to me after I tweeted
+
+"Women (cis and trans), non-binary people (optionally include trans men if you're ok with that)"
+
+Please make sure you read [Kim Crayton's thread](https://twitter.com/KimCrayton1/status/974049180602822661) on how best to approach this process.
+
+### Networks 
+
+Binders (Facebook Group)
+
+[Ada's List](http://adaslist.co/) (email community, UK)
+
+#### Slacks:
+These are invite only networks, please read their coodes of conduct and mission. 
+
+[#FemaleFounders](http://hashtagfemalefounders.com/)
+
+[Lemon Aid](http://lemonaid.io/) (When it gets tough. This is a place for support.)
+
+[Women in Product](https://docs.google.com/forms/d/174UlDhlVqOGY3KzmaT1gsxZzDOZ1DNt4G_BHOzpsPWU/viewform)
+
+[Women in Technology](http://witchat.github.io/)
+
+[Women in Sales](http://www.thewomenpreneurs.com/women-in-sales-group)
+
+
+### Lists 
+
+[200+ ThoughLeaders in Crypto and Blcokachain](https://medium.com/@michelletsng/201-thought-leaders-in-crypto-and-blockchain-the-ultimate-crypto-list-for-event-planners-9e712186cbfb)
+
+[Ashley McNamara's list of Lady Geniuses](https://twitter.com/ashleymcnamara/lists/lady-geniuses)
 ### Job Boards / Dedicated organizations
 
 [Woman Who Code](https://womenwhocode.org)
@@ -32,32 +63,6 @@ Please, contribute what's missing (this is not meant to be a comprehensive list)
 [Women who Startup](https://womenwhostartup.com)
 
 [Andela](https://andela.com/) (Connection with a network of developers in Africa, also training)
-
-### Networks 
-
-Binders (Facebook Group)
-
-[Ada's List](http://adaslist.co/) (email community, UK)
-
-#### Slacks:
-These are invite only networks, please read their coodes of conduct and mission. 
-
-[#FemaleFounders](http://hashtagfemalefounders.com/)
-
-[Lemon Aid](http://lemonaid.io/) (When it gets tough. This is a place for support.)
-
-[Women in Product](https://docs.google.com/forms/d/174UlDhlVqOGY3KzmaT1gsxZzDOZ1DNt4G_BHOzpsPWU/viewform)
-
-[Women in Technology](http://witchat.github.io/)
-
-[Women in Sales](http://www.thewomenpreneurs.com/women-in-sales-group)
-
-
-### Lists 
-
-[200+ ThoughLeaders in Crypto and Blcokachain](https://medium.com/@michelletsng/201-thought-leaders-in-crypto-and-blockchain-the-ultimate-crypto-list-for-event-planners-9e712186cbfb)
-
-[Ashley McNamara's list of Lady Geniuses](https://twitter.com/ashleymcnamara/lists/lady-geniuses)
 
 
 ### Education/Funding/Mentoring Organizations (ie: accelerators, fellowships)
@@ -97,7 +102,3 @@ These are invite only networks, please read their coodes of conduct and mission.
 [Nodesk](https://nodesk.co/remote-jobs/)
 
 [Hire Club](https://hireclub.com/)
-
-### Inclusive and Respecful Wording suggested to me after I tweeted
-
-"Women (cis and trans), non-binary people (optionally include trans men if you're ok with that)"
