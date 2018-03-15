@@ -72,13 +72,13 @@ These are invite only networks, please read their coodes of conduct and mission.
 
 [Operation Code](https://www.operationcode.org/) (For military veterans & families.)
 
-[Digital undivided](https://www.digitalundivided.com/) (Black & Latinx women founders.) 
+[Digital undivided](https://www.digitalundivided.com/) (Black & Latinx women founders.)
 
 [Outreachy](https://www.outreachy.org/) (Free and Open Source Software Internships.)
 
 [Turing School](https://www.turing.io/)
 
-[Codebar](https://codebar.io/) (UK, Free workshops to bridge the diversity gap)
+[codebar](https://codebar.io/) (Free workshops to bridge the diversity gap)
 
 ### Events
 
