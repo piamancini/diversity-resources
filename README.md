@@ -1,11 +1,11 @@
 # diversity-resources
 ## A list of resources for those interesting in building diverse teams. 
 
-Our hiring process was frustrating for me becasue we were receiving applications only from men. I believe in the importance of having a diverse team and I want to help underrepresented groups, specially women, find jobs in tech. I asked the internet for help on a tweet and the reaction was beautiful (and intense). Here's a list ot resources and things I learned in the process. 
+Our hiring process was frustrating for me because we were receiving applications only from men. I believe in the importance of having a diverse team and I want to help underrepresented groups, specially women, find jobs in tech. I asked the internet for help on a tweet and the reaction was beautiful (and intense). Here's a list ot resources and things I learned in the process. 
 
-Please, contribute what's missing (this is not meant to be a comprehensive list) respect the spirit of this repo, use it to encourange more underrepresented groups to join your team, don't forget to post in these networks to make the tech sector a better place. 
+Please, contribute what's missing (this is not meant to be a comprehensive list) respect the spirit of this repo, use it to encourage more underrepresented groups to join your team, don't forget to post in these networks to make the tech sector a better place. 
 
-### Inclusive and Respecful aprpocahes and aording suggested to me after I tweeted
+### Inclusive and Respecful approaches and aording suggested to me after I tweeted
 
 "Women (cis and trans), non-binary people (optionally include trans men if you're ok with that)"
 
