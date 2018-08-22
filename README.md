@@ -1,11 +1,11 @@
 # diversity-resources
 ## A list of resources for those interesting in building diverse teams. 
 
-Our hiring process was frustrating for me because we were receiving applications only from men. I believe in the importance of having a diverse team and I want to help underrepresented groups, specially women, find jobs in tech. I asked the internet for help on a tweet and the reaction was beautiful (and intense). Here's a list ot resources and things I learned in the process. 
+Our hiring process was frustrating for me because we were receiving applications only from men. I believe in the importance of having a diverse team and I want to help underrepresented groups, specially women, find jobs in tech. I asked the internet for help on a tweet and the reaction was beautiful (and intense). Here's a list of resources and things I learned in the process. 
 
 Please, contribute what's missing (this is not meant to be a comprehensive list) respect the spirit of this repo, use it to encourage more underrepresented groups to join your team, don't forget to post in these networks to make the tech sector a better place. 
 
-### Inclusive and Respecful approaches and aording suggested to me after I tweeted
+### Inclusive and Respectful approaches and on boarding suggested to me after I tweeted
 
 "Women (cis and trans), non-binary people (optionally include trans men if you're ok with that)"
 
@@ -18,7 +18,7 @@ Binders (Facebook Group)
 [Ada's List](http://adaslist.co/) (email community, UK)
 
 #### Slacks:
-These are invite only networks, please read their coodes of conduct and mission. 
+These are invite only networks, please read their codes of conduct and mission. 
 
 [#FemaleFounders](http://hashtagfemalefounders.com/)
 
@@ -33,7 +33,7 @@ These are invite only networks, please read their coodes of conduct and mission.
 
 ### Lists 
 
-[200+ ThoughLeaders in Crypto and Blcokachain](https://medium.com/@michelletsng/201-thought-leaders-in-crypto-and-blockchain-the-ultimate-crypto-list-for-event-planners-9e712186cbfb)
+[200+ Though Leaders in Crypto and Blockchain](https://medium.com/@michelletsng/201-thought-leaders-in-crypto-and-blockchain-the-ultimate-crypto-list-for-event-planners-9e712186cbfb)
 
 [Ashley McNamara's list of Lady Geniuses](https://twitter.com/ashleymcnamara/lists/lady-geniuses)
 ### Job Boards / Dedicated organizations
